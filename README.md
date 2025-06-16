@@ -14,7 +14,7 @@ Analice métricas como ingresos, reseñas y rendimiento de ventas.
 Requisitos que se consideraron:
 Analizar datos de la tienda:
 
-Debes evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
+Evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
 
  
 
