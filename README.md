@@ -29,6 +29,13 @@ Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circu
 
 Después del análisis, se escribio un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
 
+___
+Tecnologias usadas:
+Python 
+google colab 
+matplotlib
+numpy
+
 ¡Éxito en tu proyecto!
 
 
