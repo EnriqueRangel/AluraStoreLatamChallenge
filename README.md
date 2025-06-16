@@ -32,8 +32,11 @@ Después del análisis, se escribio un texto explicando a qué tienda debería v
 ___
 Tecnologias usadas:
 Python 
+
 google colab 
+
 matplotlib
+
 numpy
 
 ¡Éxito en tu proyecto!
