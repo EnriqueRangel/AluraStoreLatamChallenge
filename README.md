@@ -2,7 +2,7 @@
 Proyecto Oracle one next education Challenge 1 para la formacion DataScience
 
 ---
-Durante este desafío, se ayudará al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
+Durante este desafío, se ayudaré al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
 Lo que se practico :
 Cargue y manipule datos CSV con la biblioteca Pandas.
@@ -27,10 +27,11 @@ Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circu
  
 
 
-Después del análisis, se escribio un texto explicando a qué tienda debería vender el Sr. João y por qué, basándose en los datos presentados.
+Después del análisis, se escribio un texto explicando a qué tienda debería vender el Sr. Juan y por qué, basándose en los datos presentados.
 
 ___
-Tecnologias usadas:
+Tecnologías usadas:
+
 Python 
 
 google colab 
@@ -39,7 +40,7 @@ matplotlib
 
 numpy
 
-¡Éxito en tu proyecto!
+
 
 
 
