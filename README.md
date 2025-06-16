@@ -1,46 +1,55 @@
-# AluraStoreLatamChallenge
-Proyecto Oracle one next education Challenge 1 para la formacion DataScience
+# 🛍️ AluraStore Latam Challenge  
+**Desafío Oracle ONE - Formación en Data Science**
 
 ---
-Durante este desafío, se ayudaré al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
-Lo que se practico :
-Cargue y manipule datos CSV con la biblioteca Pandas.
+Durante este desafío, ayudé al **Sr. Juan** a decidir qué tienda de su cadena *Alura Store* debería vender para iniciar un nuevo emprendimiento.  
+Para ello, se analizaron datos de ventas, desempeño y reseñas de las **4 tiendas** de la cadena. El objetivo fue identificar la tienda menos eficiente y presentar una **recomendación basada en datos**.
 
-Cree visualizaciones de datos con la biblioteca Matplotlib.
+---
 
-Analice métricas como ingresos, reseñas y rendimiento de ventas.
+## ✅ Habilidades Prácticas Aplicadas
 
-Requisitos que se consideraron:
-Analizar datos de la tienda:
+- Carga y manipulación de archivos `.CSV` con **Pandas**  
+- Visualización de datos con **Matplotlib**  
+- Análisis de métricas clave:  
+  - Ingresos por tienda  
+  - Reseñas de clientes  
+  - Productos más y menos vendidos  
+  - Costos de envío promedio  
+  - Categorías de productos más populares  
 
-Evaluar información como los ingresos, las categorías más vendidas, las reseñas de los clientes, los productos más vendidos y el envío promedio.
+---
 
- 
+## 📊 Requisitos del Proyecto
 
-Crear gráficos para visualización:
+### 📈 Análisis de Datos
+Evaluación de la información clave de cada tienda:  
+- Ingresos totales  
+- Categorías más vendidas  
+- Calificaciones promedio de clientes  
+- Productos más y menos vendidos  
+- Coste de envío promedio  
 
-Decide qué tipos de gráficos utilizar para presentar los resultados de forma clara y visual.
+### 🧩 Visualización de Resultados
+- Uso de **mínimo 3 tipos de gráficos diferentes** para comunicar los hallazgos (barras, circulares, dispersión, etc.)  
+- Interpretación de resultados con **soporte visual**  
 
-Mínimo de 3 gráficos diferentes, que pueden incluir gráficos de barras, circulares, de dispersión y otros.
+### 📝 Informe Final
+- Recomendación escrita sobre qué tienda debería vender el Sr. Juan, con **justificación basada en datos y visualizaciones**
 
- 
+---
 
+## 🛠️ Tecnologías Utilizadas
 
-Después del análisis, se escribio un texto explicando a qué tienda debería vender el Sr. Juan y por qué, basándose en los datos presentados.
+- **Python**
+- **Google Colab**
+- **Pandas**
+- **Matplotlib**
+- **NumPy**
 
-___
-Tecnologías usadas:
+---
 
-Python 
+## 📌 Notas Finales
 
-google colab 
-
-matplotlib
-
-numpy
-
-
-
-
-
+Este proyecto es parte del programa de formación de **Oracle ONE + Alura Latam** en el track de **Data Science**. Fue una excelente oportunidad para practicar el pensamiento analítico, visualización de datos y comunicación de resultados de forma efectiva.
